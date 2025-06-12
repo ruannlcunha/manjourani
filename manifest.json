@@ -1,0 +1,25 @@
+{
+    "theme_color": "#2596be",
+    "background_color": "#ffffff",
+    "id": "https://ruannlcunha.github.io/manjourani/",
+    "start_url": "https://ruannlcunha.github.io/manjourani/",
+    "name": "Para Manjourani",
+    "short_name": "Para Manjourani",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+        "src": "https://ruannlcunha.github.io/manjourani/icon144.png",
+        "sizes": "144x144",
+        "type": "image/png",
+        "purpose": "any maskable"
+        },
+        {
+        "src": "https://ruannlcunha.github.io/manjourani/icon512.png",
+        "sizes": "512x512",
+        "type": "image/png",
+        "purpose": "any maskable"
+        }
+    ],
+    "display": "fullscreen",
+    "orientation": "landscape"
+  }
